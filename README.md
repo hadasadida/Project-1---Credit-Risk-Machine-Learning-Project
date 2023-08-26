@@ -57,9 +57,15 @@ Untuk melakukan modeling, digunakan 70% labelled dataset dan model yang akan dig
 ![image](https://github.com/hadasadida/Project-1---Credit-Risk-Machine-Learning-Project/assets/124650679/5d890e7d-2699-42cd-8e3f-00b8d354e9cd)
 #### Fature Importance 
 ![image](https://github.com/hadasadida/Project-1---Credit-Risk-Machine-Learning-Project/assets/124650679/ec3e620a-299f-4c9a-86e5-0e75c233827c)
-
+Tiga fitur yang paling mempengaruhi nilai pinjaman adalah:
+- Indicate of income 
+- Loan status
+- Pembayaran bulanan yang harus dibayar oleh peminjam jika pinjaman itu berasal.
 
 ### Conclusion
+Scope dari project ini adalah untuk membangun model machine learning yang memungkinkan lending company “AZ” dapat membuat keputusan peminjaman dengan subprime mortgage pada case tertentu, dalam kasus ini adalah pinjaman dengan credit score buruk. 
+Lending company “AZ” menempatkan risiko dan tujuan bisnis mereka pada arah cakupan profitabilitas dan perluasan sehingga dapat diberikan opsi strategi bisnis yaitu dengan fokus dan memprioritaskan profitabilitas dan perluasan pasar. 
+
 
 
 
